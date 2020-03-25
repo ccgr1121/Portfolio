@@ -1,0 +1,7 @@
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\obj\Debug\Isogram.csprojAssemblyReference.cache
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\obj\Debug\Isogram.csproj.CoreCompileInputs.cache
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\bin\Debug\Isogram.exe.config
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\bin\Debug\Isogram.exe
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\bin\Debug\Isogram.pdb
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\obj\Debug\Isogram.exe
+C:\Users\UKGC\Documents\_Job Stuff\QA\C#\Isogram\Isogram\obj\Debug\Isogram.pdb

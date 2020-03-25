@@ -1,0 +1,12 @@
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\obj\Debug\Smooth Sentences.csprojAssemblyReference.cache
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\obj\Debug\Smooth Sentences.csproj.CoreCompileInputs.cache
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Smooth Sentences.exe.config
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Smooth Sentences.exe
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Smooth Sentences.pdb
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Lucene.Net.dll
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Lucene.Net.pdb
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\bin\Debug\Lucene.Net.xml
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\obj\Debug\Smooth Sentences.csproj.CopyComplete
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\obj\Debug\Smooth Sentences.exe
+Z:\Documents\Job Stuff\_Job Stuff\QA\C#\source\repos\Smooth Sentences\Smooth Sentences\obj\Debug\Smooth Sentences.pdb
